@@ -14,5 +14,4 @@ This repository contains the code for a website showcasing a gallery of Prague. 
 
 - Add JavaScript for interactive features
 - Implement a photo gallery with image previews and descriptions
-- Improve responsiveness for mobile devices
 - Add more pages and content
